@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net5.0</TargetFramework>
     <UserSecretsId>aspnet-GalaxyHotel.Website-F4CD36CD-E24A-49DF-B7F9-29E514408D94</UserSecretsId>
   </PropertyGroup>
 
